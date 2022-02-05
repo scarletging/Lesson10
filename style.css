@@ -1,0 +1,77 @@
+/* USE FLEXBOX TO LAYOUT PAGE */
+
+.header {
+    color: aquamarine;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    width:700px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Make sure to format image of yourself */
+
+.me {
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+
+.meText {
+    font-weight: bolder;
+    font-size: 50px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: left;
+    align-items: stretch;
+}
+
+
+/* Make sure to format GitHub Icon */
+
+.gitHub {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Make sure to format LinkedIn Icon */
+
+.linkedin {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Make sure to format Facebook Icon */
+
+.facebook {
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Make sure to format Instagram Icon */
+
+.instagram {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+/* When hovered over icons they should transform in size to show animation */
+
+/* Footer should have an email icon next to it */
+
+/* style page */
+
